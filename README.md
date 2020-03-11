@@ -9,7 +9,7 @@
 1. Install Stockfish.
 1. Create a new conda environment using requirements.txt from the repository.
 1. Open core.ipynb and configure the constants, specifically providing paths for the Stockfish engine, the CNN model and Squares.txt.
-1. Install IPWecam application on an Android phone and start it. Copy the associated IP to the constants in core.ipynb
+1. Install IPWebcam application on an Android phone and start it. Copy the associated IP to the constants in core.ipynb
 1. Look up the port in Arduino and copy it to the constants aswell. 
 1. Place the phone on the stand, making sure the whole chessboard is visible.
 1. Make sure all the chess pieces are in their correct places.
