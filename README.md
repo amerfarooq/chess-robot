@@ -4,16 +4,6 @@
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/HXYhgvX/logo.png" alt="logo" border="0" width="150" height="150"></a>
 </p>
 
-## Dependencies:
-
-- Keras
-- Matplotlib
-- opencvpython==3.4.5.20
-- pythonchess
-- tensorFlow
-
-------
-
 ### Demo:
 
 [https://www.linkedin.com/posts/quest-software-quality-engineering-%26-testing-laboratory_at-quest-we-strive-for-innovation-and-are-activity-6636241653235585024-Ei7-]()
