@@ -1,6 +1,8 @@
 # Autonomous Game-Playing Robot
 
-<img src="F:\House\Books\Semester 8\logo.png" style="zoom:50%;" />
+<p align="center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/HXYhgvX/logo.png" alt="logo" border="0" width="150" height="150"></a>
+</p>
 
 ## Dependencies:
 
@@ -36,5 +38,15 @@
 1. Make sure all the chess pieces are in their correct places.
 1. Run all the cells in core.ipynb, except for the one that saves images.
 
+------
 
+### Inspired by:
+
+Raspberry Turk, by Joey Meyer. His implementation can be found 
+
+[here]: http://www.raspberryturk.com/
+
+.
+
+------
 
