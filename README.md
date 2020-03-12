@@ -1,12 +1,8 @@
 # Autonomous Game-Playing Robot
 
-```html
 <p align="center">
-  <img width="120" height="120" src="https://imgur.com/a/YyhA0CP">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/HXYhgvX/logo.png" alt="logo" border="0" width="150" height="150"></a>
 </p>
-```
-
-------
 
 ## Dependencies:
 
@@ -46,7 +42,11 @@
 
 ### Inspired by:
 
-[Raspberry Turk]: https://github.com/joeymeyer/raspberryturk	"Raspeberry Turk by Joey Meyer"
+Raspberry Turk, by Joey Meyer. His implementation can be found 
+
+[here]: http://www.raspberryturk.com/
+
+.
 
 ------
 
