@@ -42,11 +42,7 @@
 
 ### Inspired by:
 
-Raspberry Turk, by Joey Meyer. His implementation can be found 
-
-[here]: http://www.raspberryturk.com/
-
-.
+Raspberry Turk, by Joey Meyer. His implementation can be found at http://www.raspberryturk.com/
 
 ------
 
