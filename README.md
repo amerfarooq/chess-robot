@@ -1,6 +1,6 @@
 # Autonomous Game-Playing Robot
 
-```
+```html
 <p align="center">
   <img width="120" height="120" src="https://imgur.com/a/YyhA0CP">
 </p>
@@ -47,4 +47,6 @@
 ### Inspired by:
 
 [Raspberry Turk]: https://github.com/joeymeyer/raspberryturk	"Raspeberry Turk by Joey Meyer"
+
+------
 
