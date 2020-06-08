@@ -28,6 +28,6 @@
 1. Run main.py
 
 
-### Inspired by:
+## Inspired by:
 
 Raspberry Turk, by Joey Meyer. His implementation can be found at http://www.raspberryturk.com/
