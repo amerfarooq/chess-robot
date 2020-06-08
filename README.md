@@ -5,13 +5,11 @@
 </p>
 
 ## Demo:
-------
 
 [https://www.linkedin.com/posts/quest-software-quality-engineering-%26-testing-laboratory_at-quest-we-strive-for-innovation-and-are-activity-6636241653235585024-Ei7-]()
 
 
 ## Installation:
-------
 
 1. Install Python 3.7. Do not install the latest 3.8 version as it is not compatible with TensorFlow. 
 1. Install the Arduino application.
@@ -31,6 +29,5 @@
 
 
 ### Inspired by:
-------
 
 Raspberry Turk, by Joey Meyer. His implementation can be found at http://www.raspberryturk.com/
