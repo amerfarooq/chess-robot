@@ -1,0 +1,1 @@
+cmd.exe /K %%USERPROFILE%%\Miniconda3\Scripts\activate.bat
