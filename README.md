@@ -6,7 +6,7 @@
 
 ## Demo:
 
-[https://www.linkedin.com/posts/quest-software-quality-engineering-%26-testing-laboratory_at-quest-we-strive-for-innovation-and-are-activity-6636241653235585024-Ei7-]()
+[https://bit.ly/2ZUelD7]()
 
 
 ## Installation:
