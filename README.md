@@ -6,7 +6,7 @@
 
 ## Demo:
 
-[https://www.facebook.com/questlabpk/posts/1439493929557214]()
+https://www.facebook.com/questlabpk/posts/1439493929557214
 
 
 ## Installation:
