@@ -1,6 +1,6 @@
 # Autonomous Game-Playing Robot
 
-<img src="poster.jpg" alt="logo" height="1100px">
+<img src="poster.jpg" alt="logo" height="900px">
 
 
 ## Demo:
