@@ -3,10 +3,10 @@
 <img src="poster.jpg" alt="logo" height="900px">
 
 
-## Demo:
+## Videos of the Robot:
 
-1. https://www.facebook.com/questlabpk/posts/1439493929557214
-1. https://www.youtube.com/watch?v=_pOFlmsijLM
+1. [Robot playing against a player](https://www.youtube.com/watch?v=_pOFlmsijLM)
+1. [Short Promotional Video](https://www.facebook.com/questlabpk/posts/1439493929557214)
 
 ## Installation:
 
