@@ -19,7 +19,7 @@ numexpr==2.6.9
 numpy==1.16.4
 opencvpython==3.4.5.20
 pandas==0.24.2
-pillow==6.0.0
+pillow==8.3.2
 ply==3.11
 protobuf==3.8.0
 pyclipper==1.1.0.post1
