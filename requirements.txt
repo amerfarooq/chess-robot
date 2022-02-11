@@ -21,7 +21,7 @@ opencvpython==3.4.5.20
 pandas==0.24.2
 pillow==6.0.0
 ply==3.11
-protobuf==3.8.0
+protobuf==3.15.0
 pyclipper==1.1.0.post1
 pyparsing==2.4.0
 pythonchess==0.28.1
