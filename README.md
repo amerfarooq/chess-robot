@@ -1,4 +1,4 @@
-# Autonomous Game-Playing Robot
+# Autonomous Chess-Playing Robot
 
 <img src="poster.jpg" alt="logo" height="900px">
 
